@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+#cabecalho{background:red; text-align:right; color:white;}
+#
+cabecalho2{background:red; text-align:center;}
+
+#conteudo{margin-left:2pt ; margin-right:250pt}
+
+#rodape{clear:both; background:green ;text-align:center}
